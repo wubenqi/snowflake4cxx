@@ -16,7 +16,7 @@
  *
  */
 
-#include "snowflake4cxx/id.h"
+#include "id.h"
 
 #include <sys/time.h>
 
